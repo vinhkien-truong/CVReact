@@ -1,6 +1,20 @@
 export default function EmploymentSection() {
   const jobs = [
     {
+      title: 'Cybersecurity Analyst and Developer',
+      company: 'Becode, Brussels',
+      date: 'May 2025 - Currently',
+      description: [
+        'Designed a secure, scalable network',
+        'A dedicated DMZ protected by both core ACLs and Cisco ASA firewall policies',
+        'Centralized AAA/RADIUS authentication with SSHv2 for secure device management',
+        'Create a TOTP-based multi-factor authentication portal web application',
+        'Built the backend using Python (Flask) and the frontend with JavaScript .',
+        'Integrated security logging, a honeypot, and an ELK Stack (Elasticsearch, Logstash, Kibana) to monitor, detect, and analyze attack attempts',
+        'Containerized the application using Docker for deployment and reproducibility',
+      ]
+    },
+    {
       title: 'Fullstack Web Developer',
       company: 'Efficy, Brussels',
       date: 'October 2020 - June 2025',

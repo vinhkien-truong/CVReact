@@ -3,7 +3,7 @@ export default function EducationSection() {
     {
       title: "Java developer",
       school: 'Hack your future, Brussels',
-      date: 'Feb 2026 – Current',
+      date: 'Feb 2026 – May 2026',
       website: 'Website: https://www.hackyourfuture.be/',
       description: 'Currently enrolled in an intensive Java development program at Hack Your Future, focusing on backend development, object-oriented programming, and software engineering principles, Spring Framework and Maven to enhance my expertise in Java and related technologies.'
     },

@@ -1,7 +1,8 @@
 export default function SkillsSection() {
   const skills = [
-    'JavaScript', 'jQuery', 'Node.js', 'Express.js', 'Pug', 'HTML5', 'CSS',
-    'Api Postman', 'Java', 'Oracle Database', 'C#', 'Agile', 'Microsoft sql server', 'Git', 'Svn'
+    'Python', 'Docker','Flask', 'JavaScript', 'jQuery', 'Node.js', 'Express.js', 'Pug', 'HTML5', 'CSS',
+    'Api Postman', 'Java', 'Maven', 'JUnit', 'Spring Boot', 'Hibernate', 'Lombok', 'MapStruct', 'Swagger', 'Oracle Database', 'JWT',
+    'C#', 'Agile', 'Microsoft sql server', 'Git', 'Svn',  'REST API', 'PostgreSQL'
   ];
 
   return (
